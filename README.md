@@ -1,6 +1,8 @@
 # Olá, eu sou o Fábio 👋
 
-Desenvolvedor de software. Construo sistemas de ponta a ponta: **backend em Java e Spring Boot**, **aplicativos móveis em Flutter e Android nativo**, com foco em privacidade, qualidade e decisões bem documentadas.
+Desenvolvedor de software. Construo sistemas de ponta a ponta: **backend em Java e Spring Boot**, **aplicativos móveis em Flutter e Android nativo**, com foco em privacidade e qualidade.
+
+Desenvolvo com apoio de inteligência artificial (**Claude Code**), dentro de um processo disciplinado: **SDD** (especificação escrita antes do código), **ADRs** (decisões de arquitetura registradas), testes automatizados e integração contínua.
 
 🌐 **Portfólio:** [fbentes.github.io](https://fbentes.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/fabio-bentes/)
 
