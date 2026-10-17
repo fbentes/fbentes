@@ -6,6 +6,16 @@ Desenvolvo com apoio de inteligência artificial (**Claude Code**), dentro de um
 
 🌐 **Portfólio:** [fbentes.github.io](https://fbentes.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/fabio-bentes/)
 
+## Tecnologias
+
+- **Backend:** Java 25 · Spring Boot · Spring Security · REST/OpenAPI · WebSocket
+- **Dados:** PostgreSQL · PostGIS · Redis · Flyway
+- **Segurança:** JWT · OAuth (Google) · Argon2id · BCrypt · SHA-256/HMAC · Privacidade e LGPD
+- **Resiliência:** Degradação controlada · Backup verificado · Prometheus
+- **Infra e entrega:** Docker · GitHub Actions
+- **Mobile e web:** Flutter · Kotlin · Jetpack Compose · Svelte
+- **Qualidade:** JUnit · Testcontainers · SDD · ADR · Claude Code
+
 ## Projetos
 
 | Projeto | O que é | Tecnologias | Link |
@@ -13,13 +23,6 @@ Desenvolvo com apoio de inteligência artificial (**Claude Code**), dentro de um
 | **Zurvo** | Aplicativo de encontros que mostra no mapa onde há movimento por perto, com chat e cutucadas em tempo real (Android, iOS e Web). Em desenvolvimento, código privado. | Java 25, Spring Boot, PostgreSQL, WebSocket, Flutter, Svelte | [Arquitetura e decisões](https://github.com/fbentes/zurvo-portfolio) |
 | **Servoi** | Aplicativo para encontrar prestadores de serviço presenciais perto de você, no mapa (Android, iOS e Web). Em desenvolvimento, código privado. | Java 25, Spring Boot, PostgreSQL + PostGIS, Redis, Flutter | [Arquitetura e decisões](https://github.com/fbentes/servoi-portfolio) |
 | **ZapDeck** | Aplicativo Android que transforma cartões de visita de papel em contatos digitais, com leitura offline. Código aberto. | Kotlin, Jetpack Compose, Room, ML Kit | [Código no GitHub](https://github.com/fbentes/zap-deck-app) |
-
-## Tecnologias
-
-- **Backend:** Java, Spring Boot, Spring Security, PostgreSQL, PostGIS, Redis, Flyway
-- **Mobile:** Flutter (Dart), Kotlin, Jetpack Compose
-- **Web:** Svelte, JavaScript, Vite
-- **Qualidade e operação:** JUnit, Testcontainers, GitHub Actions, Docker, OpenAPI
 
 ---
 
